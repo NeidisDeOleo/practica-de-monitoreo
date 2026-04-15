@@ -24,5 +24,5 @@ Se visualizaron métricas de CPU y memoria en Grafana.
 
 \## 📷 Evidencia!
 
-\[Dashboard](evidencia.png)
+!\[Dashboard](evidencia.png)
 
