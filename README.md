@@ -23,6 +23,6 @@ Se visualizaron métricas de CPU y memoria en Grafana.
 
 
 \## 📷 Evidencia!
+<img width="1828" height="931" alt="evidencia" src="https://github.com/user-attachments/assets/f26f8c4c-ee2e-4789-a6a0-c1eddf5e6a7b" />
 
-!\[Dashboard](evidencia.png)
 
